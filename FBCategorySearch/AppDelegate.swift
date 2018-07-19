@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  FBCategorySearch
 //
-//  Created by Shanthakumar on 23/05/18.
-//  Copyright © 2018 Shanthakumar. All rights reserved.
+//  Created by Shanth L on 23/05/18.
+//  Copyright © 2018 Shanth L. All rights reserved.
 //
 
 import UIKit
@@ -12,7 +12,6 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
